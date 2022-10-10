@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    background-color: white;
+
+}
+
+.navigation {
+    height: 70px;
+    background-color: #077Caa;
+    color: white;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-family: sans-serif;
+}
+
+h1 {
+  background-color: #077Caa;
+}
+
+h2, strong {
+    color: #045b7d;
+}
+.header .logo,
+nav ul li, 
+.ul a {
+    background-color: #077Caa;
+    display: inline-block;  
+}
+
+.logo {
+    color: white;
+    font-size: 20px;
+}
+
+nav ul li {
+color: white;
+display: inline-block;
+text-decoration:none;
+margin-right: 20px;
+
+}
+
+.main {
+    padding: 30px;
+}
+
+.top-sec, .follow-us-sec {
+    padding: 10px;
+}
+
+.get-membership {
+    color:#f77b08
+}
+
+.follow-us-sec {
+
+}
